@@ -14,6 +14,10 @@ It includes practical command-line exercises demonstrating network connectivity 
 ### Practical Exercises
 #### Network Connectivity Testing
 
+<img width="975" height="472" alt="image" src="https://github.com/user-attachments/assets/4988d9a3-2e82-4289-bb5b-ebd20bddcc01" />
+<img width="975" height="149" alt="image" src="https://github.com/user-attachments/assets/2392d503-7a67-46a1-a456-6941fac8fded" />
+
+
 ##### Purpose: 
 Tests network reachability, measures round-trip time, and reports packet loss.
 Useful for initial connectivity diagnostics and investigating network availability.
