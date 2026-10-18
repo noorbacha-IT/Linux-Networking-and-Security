@@ -31,7 +31,7 @@ Useful for initial connectivity diagnostics and investigating network availabili
 Displays listening TCP/UDP sockets and associated port information.
 Supports identification of exposed services and unexpected listening ports.
 
-#### Address Resolution Analysis
+#### Network Connection Monitoring
 <img width="975" height="446" alt="image" src="https://github.com/user-attachments/assets/3dcae29e-e57f-4512-88b8-fb6f9913c11f" />
 <img width="975" height="427" alt="image" src="https://github.com/user-attachments/assets/b50e2791-832f-483e-837e-ebba7f0c86fa" />
 <img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/ead83540-7462-43a4-9b37-9ec2e5409e57" />
@@ -39,6 +39,14 @@ Supports identification of exposed services and unexpected listening ports.
 <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/e4ff3fa2-06de-4b7b-9bf8-ef1825088036" />
 <img width="975" height="428" alt="image" src="https://github.com/user-attachments/assets/c50d20c5-cadf-47df-a0c5-eb4788c46229" />
 <img width="975" height="424" alt="image" src="https://github.com/user-attachments/assets/ec86e82a-00d0-45ce-98b9-732cc9da0174" />
+
+##### Purpose: 
+Displays listening TCP/UDP sockets and associated port information.
+
+Security relevance: Supports identification of exposed services and unexpected listening ports.
+
+#### Address Resolution Analysis
+
 
 <img width="975" height="309" alt="image" src="https://github.com/user-attachments/assets/a8af0f87-4ef0-4b36-b15b-bbc1bab5c4cf" />
 
