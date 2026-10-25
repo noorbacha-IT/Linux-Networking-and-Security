@@ -67,7 +67,55 @@ Supports local network troubleshooting and basic investigation of suspicious add
 
 <img width="983" height="99" alt="image" src="https://github.com/user-attachments/assets/7c255a41-7b1e-4d40-b18a-539a549762ab" />
 
-##### Purpose: 
+
+Write shell script that defines 2 integers and one float value like 
+a=5 
+b=7 
+c=5.5 
+Perform multiplication of integers then divide with float. 
+and finally print result with four decimal places. like 6.3636 
+you have to use pipe operator ( | ) to send variables to bc utility for arithmetic.
+
+<img width="975" height="705" alt="image" src="https://github.com/user-attachments/assets/441edec7-edad-497f-b788-e3e289e1054d" />
+<img width="975" height="164" alt="image" src="https://github.com/user-attachments/assets/8d88e9cf-df3a-4dfa-aab6-a12d61852402" />
+
+Write shell script that takes string from user, and make folder with named with string. Folder should contain file with named timestamp. having current time and date written on it.
+<img width="949" height="740" alt="image" src="https://github.com/user-attachments/assets/3a87aeb3-bfcd-47d0-a6ae-096fe1692601" />
+<img width="900" height="670" alt="image" src="https://github.com/user-attachments/assets/bccfdc75-9bb4-448e-90df-551ccc9c34f4" />
+<img width="966" height="175" alt="image" src="https://github.com/user-attachments/assets/59402a7d-d1f7-4667-b015-0b75ff2626e6" />
+
+Write a script which first picks hours from the system date and then greets the user 
+according to following conditions. use if else structure to solve this example  
+Hours 00 – 11 “Good Morning”  
+Hours 12-17 “Good Afternoon”  
+Hours 18-23 “Good night”  
+Hint:- To take system hours use: date +%H, use if then elif then else
+
+<img width="975" height="578" alt="image" src="https://github.com/user-attachments/assets/ba414648-c95a-4ebd-8f4d-fdb288434723" />
+<img width="975" height="196" alt="image" src="https://github.com/user-attachments/assets/929b0a16-aaef-40d3-84ac-5546076ad339" />
+
+
+Write shell script that print following output using while loop only.  
+9 8 7 6 5 4 3 2 1 0  
+8 7 6 5 4 3 2 1 0  
+7 6 5 4 3 2 1 0  
+6 5 4 3 2 1 0  
+5 4 3 2 1 0  
+4 3 2 1 0  
+3 2 1 0  
+2 1 0  
+1 0  
+0
+
+
+<img width="828" height="738" alt="image" src="https://github.com/user-attachments/assets/24d40b94-932e-431c-a107-b75cc9a6e65a" />
+<img width="700" height="407" alt="image" src="https://github.com/user-attachments/assets/27c3eb11-bf3c-47cd-bdd9-69c68372f289" />
+
+---
+
+<img width="743" height="565" alt="Lab3LIN2" src="https://github.com/user-attachments/assets/edd19694-83d7-46d0-a805-07e54a1eb4f4" />
+
+##### Purpose: !
 Displays the Linux kernel routing table, including gateways and network interfaces.
 Helps identify routing misconfigurations and investigate network traffic paths.
 
